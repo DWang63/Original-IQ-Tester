@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><info>
+<player>
+<name>Derek</name>
+<highScore>25</highScore>
+<totalScore>70</totalScore>
+</player>
+<player>
+<name>Liam</name>
+<highScore>10</highScore>
+<totalScore>20</totalScore>
+</player>
+<player>
+<name>Ricki</name>
+<highScore>50</highScore>
+<totalScore>75</totalScore>
+</player>
+<player>
+<name>Ezra</name>
+<highScore>50</highScore>
+<totalScore>105</totalScore>
+</player>
+<player>
+<name>Simon</name>
+<highScore>100</highScore>
+<totalScore>100</totalScore>
+</player>
+<player><name>Zeke</name><highScore>25</highScore><totalScore>25</totalScore></player><player><name>Jim</name><highScore>25</highScore><totalScore>25</totalScore></player><player><name>Kyle</name><highScore>0</highScore><totalScore>0</totalScore></player><player><name>Jon</name><highScore>0</highScore><totalScore>0</totalScore></player><player><name>Victor</name><highScore>25</highScore><totalScore>25</totalScore></player><player><name>kendra</name><highScore>0</highScore><totalScore>0</totalScore></player></info>
